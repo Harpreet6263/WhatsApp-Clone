@@ -1,6 +1,6 @@
 ----------------------------------------Inside the parent repository, there are two folders ---------------> User-1 and User-2---------------------------------------------------------- 
 clone those inside repositories as
-" git clone add https://github.com/Harpreet6263/user-1.git user-1"
+" git clone add https://github.com/Harpreet6263/user-1.git user-1"  and 
 " git clone " https://github.com/Harpreet6263/user-2.git"
 
 Now we have two folders as User-1 and User-2.
